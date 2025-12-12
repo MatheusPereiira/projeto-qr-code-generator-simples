@@ -1,0 +1,4 @@
+qrcode[pil]
+PyQt6
+Pillow
+qrcode[svg]
