@@ -21,10 +21,9 @@
 
 **Status do Projeto:** Em desenvolvimento.
 
-Um aplicativo desktop desenvolvido em **Python + PyQt6** para criação de **QR Codes personalizados**, incluindo:
+Um aplicativo desktop desenvolvido em **Python + PyQt6** para criação de **QR Codes**, incluindo:
 
 - cores customizáveis  
-- logo central opcional  
 - exportação para PNG e SVG  
 - histórico salvo em JSON  
 - visualização ampliada  
