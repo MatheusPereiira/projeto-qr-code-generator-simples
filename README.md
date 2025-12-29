@@ -35,7 +35,6 @@ Um aplicativo desktop desenvolvido em **Python + PyQt6** para criação de **QR 
 ### 🧾 Geração de QR Code
 - Inserir texto ou link  
 - Escolher cor principal e cor de fundo  
-- Inserir **logo no centro** (opcional)  
 - QR Code gerado instantaneamente  
 
 ### 💾 Exportação
